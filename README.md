@@ -19,43 +19,5 @@ Real-time order tracking
 
 Admin management system
 
-This project was developed as part of an academic learning process to understand full-stack web development, API integration, and database management.
+This project was developed as part of an learning process to understand full-stack web development, API integration, and database management.
 
-🚀 Features
-👤 User Features
-
-Register and login securely
-
-View products by category or search
-
-Add products to cart and wishlist
-
-Place orders with address and payment
-
-View order history and status
-
-Manage user profile and saved addresses
-
-🛠️ Admin Features
-
-Admin login and access control
-
-Add, edit, and delete products
-
-Manage product categories
-
-View, update, and cancel orders
-
-Manage users and their activities
-
-View sales reports and analytics
-
-💳 Additional Highlights
-
-Secure payment gateway (Razorpay)
-
-Responsive user interface
-
-Real-time order updates
-
-Product ratings and reviews
